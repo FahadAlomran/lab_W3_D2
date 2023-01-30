@@ -1,0 +1,39 @@
+body{
+    margin: 2%; 
+  
+}
+
+ul{
+    list-style-type: none;
+}
+
+#m{
+    
+}
+
+#m h2{
+    color: rgb(169, 150, 28);
+    margin-top: 2%;
+   
+}
+#div{
+      display: grid;
+    grid-template-columns: auto auto;
+    border:solid 1rem;
+}
+
+#CONTACT {
+    background-color: black;
+    color: white;
+    padding: 2%;
+    margin-right: 20%;
+}
+
+#CONTACT h2{
+    color: gold;
+    margin-top: 2%;
+}
+
+#CONTACT h2{
+    color: gold;
+}
